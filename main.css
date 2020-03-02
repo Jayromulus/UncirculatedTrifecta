@@ -1,3 +1,9 @@
+
+body{
+    background-image: url("./Casino\ Cashier.jpg");
+    background-position: top; 
+}
+
 body html{
     margin:0;
     padding:0;
