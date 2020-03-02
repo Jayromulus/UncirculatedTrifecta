@@ -8,3 +8,8 @@ body html{
     margin:0;
     padding:0;
 }
+
+header{
+text-align: center;
+background-color:rgba(250, 246, 246, 0.05);
+}
