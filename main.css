@@ -4,12 +4,18 @@ body{
     background-position: top; 
 }
 
+.jumbotron{
+    text-align: center;
+    background-color:rgba(250, 246, 246, 0.75);
+
+}
+
+.card{
+    height: 600px;
+}
+
 body html{
     margin:0;
     padding:0;
 }
 
-header{
-text-align: center;
-background-color:rgba(250, 246, 246, 0.05);
-}
